@@ -1,0 +1,11 @@
+{
+  "title": "FX CLXN",
+  "description": "Discover and shop stylish clothing effortlessly with a modern e-commerce platform designed for a seamless shopping experience and easy inventory management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
